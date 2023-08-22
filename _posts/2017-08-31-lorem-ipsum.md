@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "欢迎使用 Typecho"
-tags: tag1 tag2 tag3 tag4
+title: "1"
+tags: none
 ---
 
 ##欢迎使用 Typecho
